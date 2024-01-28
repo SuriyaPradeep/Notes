@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/3.5 Dijkstra Two Stack Algorithm.md",
+                "file": "DSA/5.Queues.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/3.5 Dijkstra Two Stack Algorithm.md",
+                "file": "DSA/5.Queues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/3.5 Dijkstra Two Stack Algorithm.md",
+                "file": "DSA/5.Queues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/3.5 Dijkstra Two Stack Algorithm.md"
+                "file": "DSA/5.Queues.md"
               }
             }
           }
@@ -159,9 +159,9 @@
   },
   "active": "92bff62cc5c7e044",
   "lastOpenFiles": [
-    "DSA/4.Queues.md",
-    "DSA/3.5 Dijkstra Two Stack Algorithm.md",
-    "DSA/3.Stacks.md",
+    "DSA/4.Stacks.md",
+    "DSA/4.5 Dijkstra Two Stack Algorithm.md",
+    "DSA/5.Queues.md",
     "DSA/PPT/3.Bags, Queues and Stacks.pdf",
     "DSA/PPT/1.Union Find.pdf",
     "Notes",
