@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "7324b4e07ff379c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "58f9c2a0aeefd66e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08c66105c32fef4f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2873d492bacdb93",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "DSA/PPT/1.Union Find.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55f7ffe2af0b8c6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "05c7d1a345fcd2cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d164d42d3a364d14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28f1a671e4f2974f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4566ed89cda9f93",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce17471267b4b9c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d0808a5e27eaa2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bd8616db00bb096",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f79bf66bf6cd8bcf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69564172da304b12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "93171ae8ccf570d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "08c66105c32fef4f",
+  "lastOpenFiles": [
+    "DSA/PPT/3.Bags, Queues and Stacks.pdf",
+    "Notes",
+    "DSA/PPT/4.Elementary Sorts.pdf",
+    "DSA/Algorithms-4th-Edition.pdf",
+    "DSA/3.Linked List.md",
+    "DSA/PPT/3.Bags, Queues and Stacks.pdf.opdownload",
+    "DSA/2.Arrays.md",
+    "DSA/PPT/1.Union Find.pdf",
+    "DSA/PPT/2.Analysis of Algorithms.pdf",
+    "DSA/1.Introduction to Data Structures and Algorithms.md",
+    "DSA/PPT/2.Analysis of Algorithms.pdf.opdownload",
+    "DSA/Algorithms-4th-Edition.pdf.opdownload",
+    "DSA",
+    "Java/16.Recursion.md",
+    "Java/10.File Handling.md",
+    "Java/8.Basic String Manipulation.md",
+    "Java/15.Sorting and Searching.md",
+    "Java/14.OOP Vs Procedural.md",
+    "Java/7.Arrays.md",
+    "Java/13.Testing and Error Correction.md",
+    "Java/1.Introduction to Java.md",
+    "Java/12.Separating the user interface from program logic.md",
+    "Java/11.Objects and References.md",
+    "Java/Java_Complete_Notes.pdf",
+    "Java/2.Conditional Statement's.md",
+    "Java/9.Introduction to OOP.md",
+    "Java/5.Reference Type.md",
+    "Java/6.ArrayList.md",
+    "Java/Images/Pasted image 20231226114909.png",
+    "Java/Images/Pasted image 20231226114831.png",
+    "Java/Images/Pasted image 20231226101256.png",
+    "Java/Images/Pasted image 20231226101210.png",
+    "Java/Images/Pasted image 20231226100950.png",
+    "Java/Images/Pasted image 20231226093537.png",
+    "Java/Images/Pasted image 20231226101231.png",
+    "Java/Images/Pasted image 20231226101142.png",
+    "Java/Images/Pasted image 20231226100922.png",
+    "Java/Images/Pasted image 20231226101031.png",
+    "Java/4.Methods.md",
+    "Java/3.Loops.md"
+  ]
+}
