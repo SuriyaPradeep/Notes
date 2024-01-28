@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "58f9c2a0aeefd66e",
+        "id": "55e6556e0ee1de82",
         "type": "tabs",
         "children": [
           {
-            "id": "08c66105c32fef4f",
+            "id": "92bff62cc5c7e044",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DSA/3.5 Dijkstra Two Stack Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,12 +25,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "DSA/PPT/1.Union Find.pdf"
+                "file": "DSA/PPT/3.Bags, Queues and Stacks.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DSA/3.5 Dijkstra Two Stack Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DSA/3.5 Dijkstra Two Stack Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DSA/3.5 Dijkstra Two Stack Algorithm.md"
+              }
             }
           }
         ]
@@ -150,16 +157,19 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "08c66105c32fef4f",
+  "active": "92bff62cc5c7e044",
   "lastOpenFiles": [
+    "DSA/4.Queues.md",
+    "DSA/3.5 Dijkstra Two Stack Algorithm.md",
+    "DSA/3.Stacks.md",
     "DSA/PPT/3.Bags, Queues and Stacks.pdf",
+    "DSA/PPT/1.Union Find.pdf",
     "Notes",
     "DSA/PPT/4.Elementary Sorts.pdf",
     "DSA/Algorithms-4th-Edition.pdf",
     "DSA/3.Linked List.md",
     "DSA/PPT/3.Bags, Queues and Stacks.pdf.opdownload",
     "DSA/2.Arrays.md",
-    "DSA/PPT/1.Union Find.pdf",
     "DSA/PPT/2.Analysis of Algorithms.pdf",
     "DSA/1.Introduction to Data Structures and Algorithms.md",
     "DSA/PPT/2.Analysis of Algorithms.pdf.opdownload",
@@ -175,7 +185,6 @@
     "Java/1.Introduction to Java.md",
     "Java/12.Separating the user interface from program logic.md",
     "Java/11.Objects and References.md",
-    "Java/Java_Complete_Notes.pdf",
     "Java/2.Conditional Statement's.md",
     "Java/9.Introduction to OOP.md",
     "Java/5.Reference Type.md",
