@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/6.Elementary Sorts.md",
+                "file": "DSA/7.Elementary Sorts.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/6.Elementary Sorts.md",
+                "file": "DSA/7.Elementary Sorts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/6.Elementary Sorts.md",
+                "file": "DSA/7.Elementary Sorts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/6.Elementary Sorts.md"
+                "file": "DSA/7.Elementary Sorts.md"
               }
             }
           }
@@ -159,24 +159,24 @@
   },
   "active": "e2873d492bacdb93",
   "lastOpenFiles": [
+    "DSA/5.Queues.md",
+    "DSA/4.Stacks.md",
+    "DSA/3.Linked List.md",
+    "DSA/2.Arrays.md",
+    "DSA/1.Introduction to Data Structures and Algorithms.md",
+    "DSA/4.5 Dijkstra Two Stack Algorithm.md",
+    "DSA/7.Elementary Sorts.md",
     "DSA/PPT/4.Elementary Sorts.pdf",
-    "DSA/6.Elementary Sorts.md",
     "DSA/PPT/3.Bags, Queues and Stacks.pdf",
     "DSA/6.Bags.md",
-    "DSA/4.5 Dijkstra Two Stack Algorithm.md",
     "3.Stacks.md",
     "Images",
     "Images/Pasted image 20240128210934.png",
-    "DSA/5.Queues.md",
-    "DSA/4.Stacks.md",
     "DSA/PPT/1.Union Find.pdf",
     "Notes",
     "DSA/Algorithms-4th-Edition.pdf",
-    "DSA/3.Linked List.md",
     "DSA/PPT/3.Bags, Queues and Stacks.pdf.opdownload",
-    "DSA/2.Arrays.md",
     "DSA/PPT/2.Analysis of Algorithms.pdf",
-    "DSA/1.Introduction to Data Structures and Algorithms.md",
     "DSA/PPT/2.Analysis of Algorithms.pdf.opdownload",
     "DSA/Algorithms-4th-Edition.pdf.opdownload",
     "Java/16.Recursion.md",
