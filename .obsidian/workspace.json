@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/7.Elementary Sorts.md",
+                "file": "DSA/7.Sorts.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/7.Elementary Sorts.md",
+                "file": "DSA/7.Sorts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/7.Elementary Sorts.md",
+                "file": "DSA/7.Sorts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/7.Elementary Sorts.md"
+                "file": "DSA/7.Sorts.md"
               }
             }
           }
@@ -165,7 +165,7 @@
     "DSA/2.Arrays.md",
     "DSA/1.Introduction to Data Structures and Algorithms.md",
     "DSA/4.5 Dijkstra Two Stack Algorithm.md",
-    "DSA/7.Elementary Sorts.md",
+    "DSA/7.Sorts.md",
     "DSA/PPT/4.Elementary Sorts.pdf",
     "DSA/PPT/3.Bags, Queues and Stacks.pdf",
     "DSA/6.Bags.md",
