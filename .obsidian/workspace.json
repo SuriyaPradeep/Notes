@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,13 +159,14 @@
   },
   "active": "e2873d492bacdb93",
   "lastOpenFiles": [
+    "DSA/8.Shuffling.md",
+    "DSA/7.Sorts.md",
     "DSA/5.Queues.md",
     "DSA/4.Stacks.md",
     "DSA/3.Linked List.md",
     "DSA/2.Arrays.md",
     "DSA/1.Introduction to Data Structures and Algorithms.md",
     "DSA/4.5 Dijkstra Two Stack Algorithm.md",
-    "DSA/7.Sorts.md",
     "DSA/PPT/4.Elementary Sorts.pdf",
     "DSA/PPT/3.Bags, Queues and Stacks.pdf",
     "DSA/6.Bags.md",
