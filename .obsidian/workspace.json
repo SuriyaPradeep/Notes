@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/7.Sorts.md",
+                "file": "DSA/9.Quick Select.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/7.Sorts.md",
+                "file": "DSA/9.Quick Select.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/7.Sorts.md",
+                "file": "DSA/9.Quick Select.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/7.Sorts.md"
+                "file": "DSA/9.Quick Select.md"
               }
             }
           }
@@ -157,10 +157,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "e2873d492bacdb93",
+  "active": "d164d42d3a364d14",
   "lastOpenFiles": [
-    "DSA/8.Shuffling.md",
     "DSA/7.Sorts.md",
+    "DSA/9.Quick Select.md",
+    "Images/Pasted image 20240128210934.png",
+    "DSA/8.Shuffling.md",
     "DSA/5.Queues.md",
     "DSA/4.Stacks.md",
     "DSA/3.Linked List.md",
@@ -172,7 +174,6 @@
     "DSA/6.Bags.md",
     "3.Stacks.md",
     "Images",
-    "Images/Pasted image 20240128210934.png",
     "DSA/PPT/1.Union Find.pdf",
     "Notes",
     "DSA/Algorithms-4th-Edition.pdf",
@@ -203,7 +204,6 @@
     "Java/Images/Pasted image 20231226101231.png",
     "Java/Images/Pasted image 20231226101142.png",
     "Java/Images/Pasted image 20231226100922.png",
-    "Java/4.Methods.md",
-    "Java/3.Loops.md"
+    "Java/4.Methods.md"
   ]
 }
