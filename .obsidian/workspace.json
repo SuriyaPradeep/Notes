@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/7.Sorts.md",
+                "file": "DSA/10.Priority Queues.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "DSA/PPT/4.Elementary Sorts.pdf"
+                "file": "DSA/PPT/7.Priority Queues.pdf"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/7.Sorts.md",
+                "file": "DSA/10.Priority Queues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/7.Sorts.md",
+                "file": "DSA/10.Priority Queues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/7.Sorts.md"
+                "file": "DSA/10.Priority Queues.md"
               }
             }
           }
@@ -159,10 +159,14 @@
   },
   "active": "e2873d492bacdb93",
   "lastOpenFiles": [
-    "Images/Pasted image 20240215143350.png",
-    "DSA/7.Sorts.md",
-    "DSA/8.Shuffling.md",
     "DSA/9.Quick Select.md",
+    "DSA/10.Priority Queues.md",
+    "DSA/DSA Question Sheet.pdf",
+    "DSA/7.Sorts.md",
+    "DSA/PPT/7.Priority Queues.pdf",
+    "DSA/PPT/4.Elementary Sorts.pdf",
+    "Images/Pasted image 20240215143350.png",
+    "DSA/8.Shuffling.md",
     "Images/Pasted image 20240128210934.png",
     "DSA/5.Queues.md",
     "DSA/4.Stacks.md",
@@ -170,7 +174,6 @@
     "DSA/2.Arrays.md",
     "DSA/1.Introduction to Data Structures and Algorithms.md",
     "DSA/4.5 Dijkstra Two Stack Algorithm.md",
-    "DSA/PPT/4.Elementary Sorts.pdf",
     "DSA/PPT/3.Bags, Queues and Stacks.pdf",
     "DSA/6.Bags.md",
     "3.Stacks.md",
@@ -180,8 +183,6 @@
     "DSA/Algorithms-4th-Edition.pdf",
     "DSA/PPT/3.Bags, Queues and Stacks.pdf.opdownload",
     "DSA/PPT/2.Analysis of Algorithms.pdf",
-    "DSA/PPT/2.Analysis of Algorithms.pdf.opdownload",
-    "DSA/Algorithms-4th-Edition.pdf.opdownload",
     "Java/16.Recursion.md",
     "Java/10.File Handling.md",
     "Java/8.Basic String Manipulation.md",
