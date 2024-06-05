@@ -4,32 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "55e6556e0ee1de82",
+        "id": "2aaa727bf0964c13",
         "type": "tabs",
         "children": [
           {
-            "id": "e2873d492bacdb93",
+            "id": "3a4dc13aa48888a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/11.Tree.md",
+                "file": "DSA/1.Introduction to Data Structures and Algorithms.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8d0214bb0e751a2e",
+            "id": "68c2de0d0a1f88dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "release-notes",
               "state": {
-                "file": "DSA/PPT/9.Binary Search Trees.pdf"
+                "currentVersion": "1.5.12"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/11.Tree.md",
+                "file": "DSA/1.Introduction to Data Structures and Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/11.Tree.md",
+                "file": "DSA/1.Introduction to Data Structures and Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/11.Tree.md"
+                "file": "DSA/1.Introduction to Data Structures and Algorithms.md"
               }
             }
           }
@@ -157,11 +158,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "e2873d492bacdb93",
+  "active": "68c2de0d0a1f88dc",
   "lastOpenFiles": [
+    "DSA/11.Tree.md",
     "DSA/PPT/9.Binary Search Trees.pdf",
     "DSA/PPT/5.Merge Sort.pdf",
-    "DSA/11.Tree.md",
     "DSA/1.Introduction to Data Structures and Algorithms.md",
     "DSA/10.Priority Queues.md",
     "DSA/DSA Question Sheet.pdf",
