@@ -4,22 +4,48 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "ef108b8fc6b116fa",
         "type": "tabs",
         "children": [
           {
             "id": "2446e4092df28bcc",
+=======
+        "id": "2aaa727bf0964c13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a4dc13aa48888a2",
+>>>>>>> dd6c900af7306db2a0c9a3e10f66375d03a91153
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "SQL.md",
+=======
+                "file": "DSA/1.Introduction to Data Structures and Algorithms.md",
+>>>>>>> dd6c900af7306db2a0c9a3e10f66375d03a91153
                 "mode": "source",
                 "source": false
               }
             }
+<<<<<<< HEAD
+=======
+          },
+          {
+            "id": "68c2de0d0a1f88dc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+>>>>>>> dd6c900af7306db2a0c9a3e10f66375d03a91153
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +111,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "SQL.md",
+=======
+                "file": "DSA/1.Introduction to Data Structures and Algorithms.md",
+>>>>>>> dd6c900af7306db2a0c9a3e10f66375d03a91153
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +132,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "SQL.md",
+=======
+                "file": "DSA/1.Introduction to Data Structures and Algorithms.md",
+>>>>>>> dd6c900af7306db2a0c9a3e10f66375d03a91153
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +159,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "SQL.md"
+=======
+                "file": "DSA/1.Introduction to Data Structures and Algorithms.md"
+>>>>>>> dd6c900af7306db2a0c9a3e10f66375d03a91153
               }
             }
           }
@@ -147,6 +185,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
+<<<<<<< HEAD
   "active": "2446e4092df28bcc",
   "lastOpenFiles": [
     "SQL.md",
@@ -154,6 +193,14 @@
     "DSA/11.Tree.md",
     "DSA/PPT/9.Binary Search Trees.pdf",
     "DSA/PPT/5.Merge Sort.pdf",
+=======
+  "active": "68c2de0d0a1f88dc",
+  "lastOpenFiles": [
+    "DSA/11.Tree.md",
+    "DSA/PPT/9.Binary Search Trees.pdf",
+    "DSA/PPT/5.Merge Sort.pdf",
+    "DSA/1.Introduction to Data Structures and Algorithms.md",
+>>>>>>> dd6c900af7306db2a0c9a3e10f66375d03a91153
     "DSA/10.Priority Queues.md",
     "DSA/DSA Question Sheet.pdf",
     "Untitled",
