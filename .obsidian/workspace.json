@@ -1,65 +1,39 @@
 {
   "main": {
-    "id": "7324b4e07ff379c9",
+    "id": "a3205c85177af773",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "ef108b8fc6b116fa",
+        "id": "e1bcd85f60f57210",
         "type": "tabs",
         "children": [
           {
-            "id": "2446e4092df28bcc",
-=======
-        "id": "2aaa727bf0964c13",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3a4dc13aa48888a2",
->>>>>>> dd6c900af7306db2a0c9a3e10f66375d03a91153
+            "id": "4a5f84466183437d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "SQL.md",
-=======
-                "file": "DSA/1.Introduction to Data Structures and Algorithms.md",
->>>>>>> dd6c900af7306db2a0c9a3e10f66375d03a91153
+                "file": "Problems/Daily Problem/2.Find the City With the Smallest Number of Neighbors at a Threshold Distance.md",
                 "mode": "source",
                 "source": false
               }
             }
-<<<<<<< HEAD
-=======
-          },
-          {
-            "id": "68c2de0d0a1f88dc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
->>>>>>> dd6c900af7306db2a0c9a3e10f66375d03a91153
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "55f7ffe2af0b8c6c",
+    "id": "260965f46f69652d",
     "type": "split",
     "children": [
       {
-        "id": "05c7d1a345fcd2cc",
+        "id": "7e6a8c6e938adf8f",
         "type": "tabs",
         "children": [
           {
-            "id": "d164d42d3a364d14",
+            "id": "87f7c18c05a2cb03",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -69,12 +43,12 @@
             }
           },
           {
-            "id": "28f1a671e4f2974f",
+            "id": "a2fcdd01a1173e47",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +58,7 @@
             }
           },
           {
-            "id": "d4566ed89cda9f93",
+            "id": "d2b6ec020bc69520",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -98,24 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "ce17471267b4b9c6",
+    "id": "729ac41df0a3f53d",
     "type": "split",
     "children": [
       {
-        "id": "7d0808a5e27eaa2e",
+        "id": "08888e3e9807222e",
         "type": "tabs",
         "children": [
           {
-            "id": "8bd8616db00bb096",
+            "id": "3fbe552dd43c21cf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "SQL.md",
-=======
-                "file": "DSA/1.Introduction to Data Structures and Algorithms.md",
->>>>>>> dd6c900af7306db2a0c9a3e10f66375d03a91153
+                "file": "Problems/Daily Problem/2.Find the City With the Smallest Number of Neighbors at a Threshold Distance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,23 +97,19 @@
             }
           },
           {
-            "id": "f79bf66bf6cd8bcf",
+            "id": "9cacb253bc4449d1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "SQL.md",
-=======
-                "file": "DSA/1.Introduction to Data Structures and Algorithms.md",
->>>>>>> dd6c900af7306db2a0c9a3e10f66375d03a91153
+                "file": "Problems/Daily Problem/2.Find the City With the Smallest Number of Neighbors at a Threshold Distance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "69564172da304b12",
+            "id": "9e95eccf67645077",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -154,16 +120,12 @@
             }
           },
           {
-            "id": "93171ae8ccf570d0",
+            "id": "f7975cf70d555a3b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "SQL.md"
-=======
-                "file": "DSA/1.Introduction to Data Structures and Algorithms.md"
->>>>>>> dd6c900af7306db2a0c9a3e10f66375d03a91153
+                "file": "Problems/Daily Problem/2.Find the City With the Smallest Number of Neighbors at a Threshold Distance.md"
               }
             }
           }
@@ -185,62 +147,26 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-<<<<<<< HEAD
-  "active": "2446e4092df28bcc",
+  "active": "4a5f84466183437d",
   "lastOpenFiles": [
-    "SQL.md",
-    "DSA/1.Introduction to Data Structures and Algorithms.md",
-    "DSA/11.Tree.md",
-    "DSA/PPT/9.Binary Search Trees.pdf",
-    "DSA/PPT/5.Merge Sort.pdf",
-=======
-  "active": "68c2de0d0a1f88dc",
-  "lastOpenFiles": [
-    "DSA/11.Tree.md",
-    "DSA/PPT/9.Binary Search Trees.pdf",
-    "DSA/PPT/5.Merge Sort.pdf",
-    "DSA/1.Introduction to Data Structures and Algorithms.md",
->>>>>>> dd6c900af7306db2a0c9a3e10f66375d03a91153
-    "DSA/10.Priority Queues.md",
-    "DSA/DSA Question Sheet.pdf",
-    "Untitled",
-    "DSA/PPT/9.Binary Search Trees.pdf.opdownload",
-    "DSA/PPT/8.Symbol Tables.pdf",
-    "DSA/PPT/8.Symbol Tables.pdf.opdownload",
-    "DSA/7.Sorts.md",
-    "DSA/3.Linked List.md",
-    "Images/Pasted image 20240219201220.png",
-    "DSA/PPT/7.Priority Queues.pdf",
-    "DSA/9.Quick Select.md",
-    "DSA/PPT/4.Elementary Sorts.pdf",
-    "Images/Pasted image 20240215143350.png",
-    "DSA/8.Shuffling.md",
-    "Images/Pasted image 20240128210934.png",
-    "DSA/5.Queues.md",
-    "DSA/4.Stacks.md",
-    "DSA/2.Arrays.md",
-    "DSA/4.5 Dijkstra Two Stack Algorithm.md",
-    "DSA/PPT/3.Bags, Queues and Stacks.pdf",
-    "DSA/6.Bags.md",
-    "3.Stacks.md",
-    "Java/16.Recursion.md",
-    "Java/10.File Handling.md",
-    "Java/8.Basic String Manipulation.md",
-    "Java/15.Sorting and Searching.md",
-    "Java/14.OOP Vs Procedural.md",
-    "Java/7.Arrays.md",
-    "Java/13.Testing and Error Correction.md",
-    "Java/1.Introduction to Java.md",
-    "Java/12.Separating the user interface from program logic.md",
-    "Java/11.Objects and References.md",
-    "Java/2.Conditional Statement's.md",
-    "Java/9.Introduction to OOP.md",
-    "Java/Images/Pasted image 20231226114909.png",
-    "Java/Images/Pasted image 20231226114831.png",
-    "Java/Images/Pasted image 20231226101256.png",
-    "Java/Images/Pasted image 20231226101210.png",
-    "Java/Images/Pasted image 20231226100950.png",
-    "Java/Images/Pasted image 20231226093537.png",
-    "Java/Images/Pasted image 20231226101231.png"
+    "Problems/Neet150/Two Pointer/Valid Palindrome.md",
+    "Problems/Neet150/Arrays & Hashing/Valid Sudoku.md",
+    "Problems/Neet150/Arrays & Hashing/Valid Anagram.md",
+    "Problems/Neet150/Arrays & Hashing/Two Sum.md",
+    "Problems/Neet150/Arrays & Hashing/Top K Frequent Elements.md",
+    "Problems/Neet150/Arrays & Hashing/String Encode and Decode.md",
+    "Problems/Neet150/Arrays & Hashing/Product of Array Except Self.md",
+    "Problems/Neet150/Arrays & Hashing/Longest Consecutive Sequence.md",
+    "Problems/Neet150/Arrays & Hashing/Group Anagrams.md",
+    "Problems/Neet150/Arrays & Hashing/Contains Duplicate.md",
+    "Problems/Daily Problem/2.Find the City With the Smallest Number of Neighbors at a Threshold Distance.md",
+    "Problems/Daily Problem/1.Sort an Array.md",
+    "Problems/Neet150/Two Pointer",
+    "Problems/Neet150/Arrays & Hashing",
+    "Interview Preparation.md",
+    "Problems/Daily Problem",
+    "Problems/D.md",
+    "Problems/Neet150",
+    "Problems"
   ]
 }
