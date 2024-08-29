@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/Daily Problem/2.Find the City With the Smallest Number of Neighbors at a Threshold Distance.md",
+                "file": "Problems/Neet150/Greedy/Hand of Straights.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/Daily Problem/2.Find the City With the Smallest Number of Neighbors at a Threshold Distance.md",
+                "file": "Problems/Neet150/Greedy/Hand of Straights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problems/Daily Problem/2.Find the City With the Smallest Number of Neighbors at a Threshold Distance.md",
+                "file": "Problems/Neet150/Greedy/Hand of Straights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problems/Daily Problem/2.Find the City With the Smallest Number of Neighbors at a Threshold Distance.md"
+                "file": "Problems/Neet150/Greedy/Hand of Straights.md"
               }
             }
           }
@@ -149,24 +149,41 @@
   },
   "active": "4a5f84466183437d",
   "lastOpenFiles": [
-    "Problems/Neet150/Two Pointer/Valid Palindrome.md",
-    "Problems/Neet150/Arrays & Hashing/Valid Sudoku.md",
-    "Problems/Neet150/Arrays & Hashing/Valid Anagram.md",
-    "Problems/Neet150/Arrays & Hashing/Two Sum.md",
-    "Problems/Neet150/Arrays & Hashing/Top K Frequent Elements.md",
-    "Problems/Neet150/Arrays & Hashing/String Encode and Decode.md",
-    "Problems/Neet150/Arrays & Hashing/Product of Array Except Self.md",
-    "Problems/Neet150/Arrays & Hashing/Longest Consecutive Sequence.md",
-    "Problems/Neet150/Arrays & Hashing/Group Anagrams.md",
-    "Problems/Neet150/Arrays & Hashing/Contains Duplicate.md",
-    "Problems/Daily Problem/2.Find the City With the Smallest Number of Neighbors at a Threshold Distance.md",
-    "Problems/Daily Problem/1.Sort an Array.md",
-    "Problems/Neet150/Two Pointer",
-    "Problems/Neet150/Arrays & Hashing",
-    "Interview Preparation.md",
-    "Problems/Daily Problem",
-    "Problems/D.md",
-    "Problems/Neet150",
-    "Problems"
+    "Problems/Neet150/Greedy/Gas Station.md",
+    "Problems/Neet150/Greedy/Jump Game II.md",
+    "Problems/Neet150/Greedy/Jump Game.md",
+    "Problems/Neet150/Greedy/Hand of Straights.md",
+    "Problems/Neet150/Greedy/Maximum Subarray.md",
+    "Problems/Neet150/Tries/Word Search II.md",
+    "Problems/Neet150/Greedy",
+    "Problems/Neet150/BackTracking/Word Search.md",
+    "Problems/Neet150/Tries/Design Add and Search Words Data Structure.md",
+    "Problems/Neet150/Tries/Implement Trie (Prefix Tree).md",
+    "Problems/Neet150/Interval/Minimum Interval to Include Each Query.md",
+    "Problems/Neet150/Tries",
+    "Problems/Neet150/Heap or Priority Queue/Find Median from Data Stream.md",
+    "Problems/Neet150/Heap or Priority Queue/Design Twitter.md",
+    "Problems/Neet150/Heap or Priority Queue/Task Scheduler.md",
+    "Problems/Neet150/Interval/Meeting Schedule II.md",
+    "Problems/Neet150/Interval/Meeting Schedule.md",
+    "Problems/Neet150/Interval/Non-overlapping Intervals.md",
+    "Problems/Neet150/Interval/Merge Intervals.md",
+    "Problems/Neet150/Interval/Insert Interval.md",
+    "Problems/Neet150/Interval",
+    "Problems/Neet150/Untitled.md",
+    "Problems/Neet150/BackTracking/N-Queens.md",
+    "Problems/Neet150/Heap or Priority Queue/Kth Largest Element in a Stream.md",
+    "Problems/Neet150/Heap or Priority Queue/Last Stone Weight.md",
+    "Problems/Neet150/Heap or Priority Queue/K Closest Points to Origin.md",
+    "Problems/Neet150/Heap or Priority Queue/Kth Largest Element in an Array.md",
+    "Problems/Neet150/Tree/Kth Smallest Element in a BST.md",
+    "Problems/Neet150/BackTracking/Letter Combinations of a Phone Number.md",
+    "Problems/Neet150/Heap or Priority Queue",
+    "Problems/Neet150/Tree",
+    "Problems/Neet150/Linked List",
+    "Problems/Neet150/Sliding Window",
+    "Problems/Neet150/Binary Search",
+    "Problems/Neet150/BackTracking",
+    "Problems/Neet150/Stack"
   ]
 }
